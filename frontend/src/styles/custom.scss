@@ -1,0 +1,24 @@
+// $primary: #445448; green
+// $secondary: #d3d8d3; mid yellow
+// $dark: #e6d56d; light yellowgreen
+// $info: #b88c56;
+//$sucess : light green
+
+$blue: #093188;
+$indigo: #2181b8;
+$purple: #953695;
+$pink: #d181d8;
+$orange: #ac6917;
+$yellow: #e6c56d;
+$teal: #d3d8d3;
+$primary:$indigo;
+$secondary: $yellow;
+$green: #77a71e;
+$red : #880909;
+$warning: $orange;
+$danger: $red;
+$cyan: #a8e4d5;
+$light: #DDDDDD;
+$dark: #555555;
+
+@import '~bootstrap/scss/bootstrap';
